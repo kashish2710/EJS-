@@ -1,5 +1,5 @@
 
-//function without any call back
+// //function without any call back
 let data;
 function internetspeed(data){
     let random=Math.floor(Math.random()*10)+1;
