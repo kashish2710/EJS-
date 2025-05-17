@@ -1,2 +1,3 @@
-# EJS-
-This repository contains my learning journey with EJS (Embedded JavaScript Templates). EJS is a simple templating language that lets us generate HTML markup with plain JavaScript.
+# web development 
+Started with building beautiful and responsive frontend interfaces using HTML, CSS, and JavaScript.
+Now diving deeper into the backend world, learning about servers, databases, APIs, and everything in between.
